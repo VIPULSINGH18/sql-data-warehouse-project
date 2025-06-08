@@ -20,3 +20,4 @@ LEFT JOIN silver.erp_loc_a101 la
 ON ci.cst_key = la.cid
 
 
+/*************************/
